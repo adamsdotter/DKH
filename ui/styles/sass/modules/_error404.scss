@@ -1,6 +1,6 @@
 .page-error {
   text-align: center;
-  padding: 0 $gutter;
+  padding: $gutterXL $gutter;
 
   h1 {
     font-weight: bold;
@@ -10,6 +10,11 @@
 .error-link {
   margin: $gutter auto;
   display: inline-block;
+  max-width: 150px;
+
+  @include at-query($min, $mq-medium) {
+    max-width: none;
+  }
 
   img {
     width: 100%;

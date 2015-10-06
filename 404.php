@@ -5,7 +5,7 @@
 
     // Page specifict
     $siteLang = 'sv';
-    $pageTitle = 'Oops, 404!';
+    $pageTitle = 'Oops... 404 error!';
     $pageImg = '404error.png';
 ?>
 
