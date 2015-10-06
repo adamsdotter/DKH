@@ -1,8 +1,4 @@
-<?php
-    $serverName = 'http://' . $_SERVER["SERVER_NAME"];
-    $images = $serverName . '/ui/images/';
-    $scripts = $serverName . '/ui/js/';
-?>
+<?php require('vars.php'); ?>
 
 <!DOCTYPE html>
 <html lang="<?php echo $siteLang; ?>" class="no-js">

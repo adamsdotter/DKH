@@ -18,8 +18,8 @@
                 <p>I Stockholm kan du själv välja vilken mottagning du vill tillhöra.</p>
                 <p>Du är välkommen att lista dig hos oss. Detta gör Du genom att fylla i Vårdvalsblanketten, som finns att hämta på vår mottagning alternativt att ladda ner här:</p>
                 <ul>
-                    <li><a href="#">» Listningsblankett Vuxna</a></li>
-                    <li><a href="#">» Listningsblankett Barn/Ungdom under 18 år</a></li>
+                    <li><a href="<?php echo $docs; ?>vardvalsblankett_huslakare_vuxen.pdf" target="_blank">Listningsblankett Vuxna</a></li>
+                    <li><a href="<?php echo $docs; ?>vardvalsblankett_huslakare_ungdom_barn.pdf" target="_blank">Listningsblankett Barn/Ungdom under 18 år</a></li>
                 </ul>
                 <p>För att kunna ladda ner blanketten måste du ha programmet Adobe Reader installerat på din dator.</p>
                 <p>När blanketten är utskriven och ifylld lämnas den i receptionen alternativt skickas till vår adress:</p>
