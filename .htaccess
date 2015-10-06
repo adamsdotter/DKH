@@ -1,1 +1,23 @@
+## ERROR 404 page
 ErrorDocument 404 /404.php
+
+
+## REDIRECT OLD PAGES
+Redirect 301 boka-tid.php /tidsbokning.php
+
+
+## REWRITE DEFAULTS
+RewriteEngine On
+RewriteBase /
+
+
+## REMOVE TRAILING SLASHES
+RewriteRule (.*)/$ $1 [L,R=301]
+
+## SEO REWRITES
+RewriteRule ^om-oss/?$ om-oss.php [NC,L]
+RewriteRule ^tidsbokning/?$ tidsbokning.php [NC,L]
+RewriteRule ^patientavgifter/?$ patientavgifter.php [NC,L]
+RewriteRule ^kontakt/?$ kontakt.php [NC,L]
+RewriteRule ^lediga-jobb/?$ lediga-jobb.php [NC,L]
+RewriteRule ^vardval-stockholm/?$ vardval-stockholm.php [NC,L]
