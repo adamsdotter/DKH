@@ -1,0 +1,18 @@
+.page-error {
+  text-align: center;
+  padding: 0 $gutter;
+
+  h1 {
+    font-weight: bold;
+  }
+}
+
+.error-link {
+  margin: $gutter auto;
+  display: inline-block;
+
+  img {
+    width: 100%;
+    display: block;
+  }
+}
