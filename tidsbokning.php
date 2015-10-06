@@ -25,7 +25,7 @@
                 <p>Välkommen!</p>
             </div>
             <figure class="page-img">
-                <img src="ui/images/page-img/<?php echo $pageImg; ?>" alt="" />
+                <img src="<?php echo $images; ?>page-img/<?php echo $pageImg; ?>" alt="" />
             </figure>
         </main>
 

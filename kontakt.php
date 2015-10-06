@@ -24,7 +24,7 @@
                 <p>Buss 49 stannar på hållplatsen Nordenflychtsvägen och buss 56 på Franzéngatan. Åker du tunnelbana tar du grön linje till Kristineberg, därefter promenerar du Nordenflychtsvägen ned mot Lindhagensgatan och tar sedan vänster ner på Lindhagensgatan mot vattnet.</p>
             </div>
             <figure class="page-img">
-                <img src="ui/images/page-img/<?php echo $pageImg; ?>" alt="" />
+                <img src="<?php echo $images; ?>page-img/<?php echo $pageImg; ?>" alt="" />
             </figure>
         </main>
 

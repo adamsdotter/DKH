@@ -29,7 +29,7 @@
                     <li><strong>Inger Hagström</strong>, legitimerad psykoterapeut, KBT</li>
                     <li><strong>Pascal Andersson</strong>, receptionist</li>
                 </ul>
-                <p>Vi har avtal med Landstinget enligt <a href="vardval-stockholm.php">Vårdval Stockholm</a>, därför kan du lista dig hos oss. Mer information finner du <a href="vardval-stockholm.php">här</a>.</p>
+                <p>Vi har avtal med Landstinget enligt <a href="/vardval-stockholm">Vårdval Stockholm</a>, därför kan du lista dig hos oss. Mer information finner du <a href="/vardval-stockholm">här</a>.</p>
                 <h2>Varför detta namn på en husläkarmottagning?</h2>
                 <p>
                     Vi vet hur värdefullt ett hembesök kan vara, både för tryggheten och den personliga kontakten.
@@ -41,7 +41,7 @@
                 </p> 
             </div>
             <figure class="page-img">
-                <img src="ui/images/page-img/<?php echo $pageImg; ?>" alt="" />
+                <img src="<?php echo $images; ?>page-img/<?php echo $pageImg; ?>" alt="" />
             </figure>
         </main>
 

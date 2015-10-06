@@ -14,6 +14,6 @@
                 </div>
             </footer>
         </div>
-        <script type="text/javascript" src="<?php echo $serverName; ?>/ui/js/min/dkh.js"></script>
+        <script type="text/javascript" src="<?php echo $scripts; ?>min/dkh.js"></script>
     </body>
 </html>

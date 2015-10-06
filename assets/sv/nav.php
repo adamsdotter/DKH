@@ -8,22 +8,22 @@
                     <a class="site-nav-link" href="/" title="Startsidan">Start</a>
                 </li>
                 <li <?php if($pageName === 'about') echo 'class="active"'; ?>>
-                    <a class="site-nav-link" href="om-oss.php" title="Om oss">Om oss</a>
+                    <a class="site-nav-link" href="/om-oss" title="Om oss">Om oss</a>
                 </li>
                 <li <?php if($pageName === 'book') echo 'class="active"'; ?>>
-                    <a class="site-nav-link" href="tidsbokning.php" title="Tidsbokning">Tidsbokning</a>
+                    <a class="site-nav-link" href="/tidsbokning" title="Tidsbokning">Tidsbokning</a>
                 </li>
                 <li <?php if($pageName === 'prices') echo 'class="active"'; ?>>
-                    <a class="site-nav-link" href="patientavgifter.php" title="Patientavgifter">Patientavgifter</a>
+                    <a class="site-nav-link" href="/patientavgifter" title="Patientavgifter">Patientavgifter</a>
                 </li>
                 <li <?php if($pageName === 'contact') echo 'class="active"'; ?>>
-                    <a class="site-nav-link" href="kontakt.php" title="Kontakta oss">Kontakt</a>
+                    <a class="site-nav-link" href="/kontakt" title="Kontakta oss">Kontakt</a>
                 </li>
                 <li <?php if($pageName === 'jobs') echo 'class="active"'; ?>>
-                    <a class="site-nav-link" href="lediga-jobb.php" title="Jobba hos oss">Lediga jobb</a>
+                    <a class="site-nav-link" href="/lediga-jobb" title="Jobba hos oss">Lediga jobb</a>
                 </li>
                 <li <?php if($pageName === 'vardval') echo 'class="active"'; ?>>
-                    <a class="site-nav-link" href="vardval-stockholm.php" title="Vårdval Stockholm">Vårdval Stockholm</a>
+                    <a class="site-nav-link" href="/vardval-stockholm" title="Vårdval Stockholm">Vårdval Stockholm</a>
                 </li>
             </ul>
         </div>

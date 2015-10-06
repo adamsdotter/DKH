@@ -15,7 +15,7 @@
             <div class="page-error">
                 <h1><?php echo $pageTitle; ?></h1>
                 <p>Något gick fel. Prova att börja om från <a href="/">start</a>!</p>
-                <a href="/" class="error-link"><img src="ui/images/page-img/<?php echo $pageImg; ?>" alt="" /></a>
+                <a href="/" class="error-link"><img src="<?php echo $images; ?>page-img/<?php echo $pageImg; ?>" alt="" /></a>
             </div>
         </main>
 
