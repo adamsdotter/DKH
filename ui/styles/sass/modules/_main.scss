@@ -1,6 +1,6 @@
 .main {
   padding: ($gutter / 2) ($gutter - 10) $gutter;
-  margin-bottom: 200px;
+  margin-bottom: 250px;
   @include clearfix();
 
   @include at-query($min, $mq-small) {
