@@ -1,5 +1,5 @@
             <footer class="footer">
-                <div class="container--full">
+                <div class="container--full footer-wrapper">
                     <ul class="vcard site-footer">
                         <li class="site-footer-item">Tel: <a href="tel:08-6569700">08-656 97 00</a></li>
                         <li class="site-footer-item">Fax: 08-656 97 05</li>

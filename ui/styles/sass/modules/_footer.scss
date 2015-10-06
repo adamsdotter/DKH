@@ -5,7 +5,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  height: 190px;
+  height: 200px;
   font-size: em(14);
 
   @include at-query($min, $mq-small) {
@@ -14,6 +14,13 @@
 
   @include at-query($min, $mq-medium) {
     height: auto;
+  }
+}
+
+.footer-wrapper {
+  @include at-query($min, $mq-small) {
+    display: table;
+    height: 100%;
   }
 }
 
@@ -27,6 +34,8 @@
     text-align: center;
     padding-left: $gutter;
     padding-right: $gutter;
+    display: table-cell;
+    vertical-align: middle;
   }
 
   a {
