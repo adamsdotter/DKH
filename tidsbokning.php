@@ -2,6 +2,7 @@
     // Metadata
     $metaTitle = 'Boka tid | Doktor Kom Hem Husläkarmottagning, på Kungsholmen i Stockholm';
     $metaDescription = 'Välkommen att boka tid på vår husläkarmottagning på Lindhagensgatan 140-142. Tidsbokning görs per telefon 08-6569700.'; 
+    $canonical = 'tidsbokning';
 
     // Page specifict
     $siteLang = 'sv';

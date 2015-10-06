@@ -2,6 +2,8 @@
     // Metadata
     $metaTitle = 'Om Doktor Kom Hem | Husläkarmottagning i Hornsberg/Lindhagen, Kungsholmen Stockholm';
     $metaDescription = 'Doktor Kom Hem är en husläkarmottagning på Lindhagensgatan på Kungsholmen i Stockholm. Hos oss hittar du husläkare och sköterskor med många års erfarenhet.';
+    $canonical = 'om-oss';
+
 
     // Page specifict
     $siteLang = 'sv';

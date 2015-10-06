@@ -6,6 +6,9 @@
         <meta charset="utf-8" />
         <meta name="description" content="<?php echo $metaDescription; ?>" />
         <title><?php echo $metaTitle; ?></title>
+        <?php if (isset($canonicalURL)) {
+                echo '<link rel="canonical" href="' . $canonicalURL . '">';
+            } ?>
         <link rel="shortcut icon" href="<?php echo $images; ?>icons/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="<?php echo $images; ?>icons/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="<?php echo $images; ?>icons/favicon-16x16.png" />

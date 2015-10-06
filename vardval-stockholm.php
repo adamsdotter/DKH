@@ -2,6 +2,7 @@
     // Metadata
     $metaTitle = 'Vårdval Stockholm | Doktor Kom Hem Husläkarmottagning i Hornsberg/Lindhagen, Kungsholmen Stockholm';
     $metaDescription = 'Välkommen att lista dig hos Doktor Kom Hem! Här finner ni listningsblanketter och information om Vårdval Stockholm. ';
+    $canonical = 'vardval-stockholm';
 
     // Page specifict
     $siteLang = 'sv';

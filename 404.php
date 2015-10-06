@@ -1,6 +1,6 @@
 <?php
     // Metadata
-    $metaTitle = '';
+    $metaTitle = '404 error';
     $metaDescription = '';
 
     // Page specifict

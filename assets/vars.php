@@ -3,4 +3,7 @@
     $images = $serverName . '/ui/images/';
     $scripts = $serverName . '/ui/js/';
     $docs = $serverName . '/assets/docs/';
+    if (isset($canonical)) {
+      $canonicalURL = $serverName . '/' . $canonical;
+    }
 ?>

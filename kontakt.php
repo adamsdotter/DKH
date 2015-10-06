@@ -2,6 +2,7 @@
     // Metadata
     $metaTitle = 'Kontakta Doktor Kom Hem | Husläkarmottagning på Kungsholmen i Stockholm';
     $metaDescription = 'Vill du kontakta eller boka en tid hos Doktor Kom Hem? Ring vår växel på nummer 08-6569700.';
+    $canonical = 'kontakt';
 
     // Page specifict
     $siteLang = 'sv';

@@ -2,6 +2,7 @@
     // Metadata
     $metaTitle = 'Patientavgifter | Doktor Kom Hem Husläkarmottagning, i Hornsberg/Lindhagen, Kungsholmen Stockholm';
     $metaDescription = 'Här finner ni patientavgifter hos Doktor Kom Hem. Sakas något går det bra att ringa vår växel för mer info. 08-6569700.';
+    $canonical = 'patientavgifter';
 
     // Page specifict
     $siteLang = 'sv';

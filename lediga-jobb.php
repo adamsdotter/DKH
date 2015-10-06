@@ -2,6 +2,7 @@
     // Metadata
     $metaTitle = 'Jobba på Doktor Kom Hem | Husläkarmottagning på Kungsholmen i Stockholm';
     $metaDescription = 'Vill du jobba på Doktor Kom Hem? Vi söker alltid kompetent personal! Varmt välkommen att höra av dig till pascal.andersson@doktorkomhem.nu';
+    $canonical = 'lediga-jobb';
 
     // Page specifict
     $siteLang = 'sv';
