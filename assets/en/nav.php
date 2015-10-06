@@ -22,6 +22,9 @@
                 <li <?php if($pageName === 'vardval') echo 'class="active"'; ?>>
                     <a class="site-nav-link" href="/choose-doctor" title="Vårdval Stockholm - choose doctor">Vårdval Stockholm</a>
                 </li>
+                <li>
+                    <a class="icon-flag flag--swe site-nav-link" href="/" title="På svenska"><span >På svenska</span></a>
+                </li>
             </ul>
         </div>
     </nav>

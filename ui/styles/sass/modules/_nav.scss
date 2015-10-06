@@ -106,3 +106,34 @@
       color: $color-nav;
   }
 }
+
+.icon-flag {
+  background-position: 10px 16px;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  padding-left: $gutter + 15px;
+
+  &.flag--eng {
+    background-image: url($flag-eng);
+    top: 1px;
+  }
+
+  &.flag--swe {
+    background-image: url($flag-swe);
+    top: 2px;
+  }
+
+  @include at-query($min, $mq-large) {
+    width: 22px;
+    height: 16px;
+    display: inline-block;
+    position: relative;
+    left: 14px;
+    background-position: top center;
+    padding: 0;
+
+    span {
+      @include visuallyHidden;
+    }
+  }
+}
