@@ -21,7 +21,7 @@
                     <dt>Läkarbesök</dt><dd>200 kr</dd>
                     <dt>Läkarbesök &lt; 18 år</dt><dd>Gratis</dd>
                     <dt>Hembesök läkare</dt><dd>300 kr</dd>
-                    <dt>Distrikssköterskebesök</dt><dd>100 kr</dd>
+                    <dt>Distriktssköterskebesök</dt><dd>100 kr</dd>
                     <dt>Kurator första besök</dt><dd>100 kr</dd>
                     <dt>Kurator återbesök</dt><dd>100 kr</dd>
                     <dt>Telefonrecept</dt><dd>Gratis</dd>

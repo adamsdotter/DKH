@@ -22,7 +22,6 @@
                     <li><a href="<?php echo $docs; ?>vardvalsblankett_huslakare_vuxen.pdf" target="_blank">Listningsblankett Vuxna</a></li>
                     <li><a href="<?php echo $docs; ?>vardvalsblankett_huslakare_ungdom_barn.pdf" target="_blank">Listningsblankett Barn/Ungdom under 18 år</a></li>
                 </ul>
-                <p>För att kunna ladda ner blanketten måste du ha programmet Adobe Reader installerat på din dator.</p>
                 <p>När blanketten är utskriven och ifylld lämnas den i receptionen alternativt skickas till vår adress:</p>
                 <p>
                     Doktor Kom Hem <br>

@@ -4,7 +4,6 @@
     $metaDescription = 'Doktor Kom Hem är en husläkarmottagning på Lindhagensgatan på Kungsholmen i Stockholm. Hos oss hittar du husläkare och sköterskor med många års erfarenhet.';
     $canonical = 'om-oss';
 
-
     // Page specifict
     $siteLang = 'sv';
     $pageName = 'about'; // To set active in nav
@@ -25,7 +24,7 @@
                     <li><strong>Dr. Ewabritt Andersson</strong>, verksamhetschef, specialist i allmänmedicin</li>
                     <li><strong>Dr. Kadir Kakili</strong>, specialist i allmänmedicin</li>
                     <li><strong>Dr. Eva Maria Lundell</strong>, specialist i allmänmedicin</li>
-                    <li><strong>Kerstin Eklund </strong>, distriktssköterska</li>
+                    <li><strong>Kerstin Eklund</strong>, distriktssköterska</li>
                     <li><strong>Maria Rollstedt</strong>, sjuksköterska</li>
                     <li><strong>Malin Källgren</strong>, sjuksköterska</li>
                     <li><strong>Inger Hagström</strong>, legitimerad psykoterapeut, KBT</li>
