@@ -1,0 +1,108 @@
+.nav-toggler {
+  padding: 5px $gutterS 8px $gutterS;
+  background: $color-main url($menu) no-repeat  21px 15px;
+
+  button {
+    color: $color-nav;
+    background-color: transparent;
+    border: none;
+    font-size: $body-font-size;
+    padding: 8px 20px 5px 31px;
+    cursor: pointer
+  }
+
+  @include at-query($min, $mq-large) {
+    display: none;
+  }
+}
+
+.site-nav {
+  background-color: $color-main;
+
+  @include at-query($min, $mq-large) {
+    margin-top: 110px;
+    position: relative;
+    z-index: 2;
+  }
+
+  @include at-query($min, $mq-xl) {
+    margin-top: 126px;
+  }
+
+  @include at-query($min, $mq-xl) {
+    margin-top: 155px;
+  }
+
+  ul {
+      margin-top: 0;
+      padding-left: 0;
+      list-style-type: none;
+      overflow-y: hidden;
+      
+      .js & {
+        max-height: 0;
+      }
+
+      @include transition(max-height 0.5s linear);
+
+      &.open {
+        max-height: 800px;
+      }
+
+      @include at-query($max, $mq-large) {
+        text-align: left;
+      }
+
+      @include at-query($min, $mq-large) {
+        text-align: center;
+
+        .js & {
+          max-height: none;
+        }
+      }
+  }
+
+  li {
+      @include at-query($min, $mq-large) {
+        display: inline-block;
+        margin-left: -5px;
+      }
+  }
+}
+
+.site-nav-link {
+  display: block;
+  padding: ($gutterS / 2) ($gutterS / 2) ;
+  color: $color-nav;
+  text-decoration: none;
+  border-top: 1px dotted #5e1b5f;
+
+  @include at-query($min, $mq-large) {
+    display: inline-block;
+    padding-top: ($gutterS - 2px);
+    padding-bottom: ($gutterS - 2px);
+
+    &:hover,
+    &:focus,
+    .active & {
+        background-color: $color-purple-dark;
+        color: $color-nav;
+        @include transition(background-color 0.3s ease-in);
+    }
+  }
+
+  @include at-query($min, $mq-xl) {
+    padding-right: $gutterS;
+    padding-left: $gutterS;
+  }
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+
+  .active & {
+      background-color: $color-purple-dark;
+      color: $color-nav;
+  }
+}

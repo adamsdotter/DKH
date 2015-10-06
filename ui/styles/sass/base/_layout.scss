@@ -1,0 +1,21 @@
+.wrapper {
+  min-height: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.container--full {
+  max-width: em(1100);
+  margin: 0 auto;
+
+  &.bg {
+    background-color: $color-bg;
+  }
+}
+
+

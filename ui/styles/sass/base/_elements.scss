@@ -1,0 +1,131 @@
+*, input, :before, :after {
+  @include box-sizing();
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  font-size: $body-font-size;
+  background: #fff;
+  font-family: $base-font-family;
+  color: $body-font-color;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+}
+
+article, aside, figcaption, figure, footer, header, main, nav, section {
+  display: block;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: $body-link-color;
+
+  &:hover,
+  &:active,
+  &:focus {
+      text-decoration: underline;
+  }
+
+  &[href^=tel] {
+      color: $body-font-color;
+      cursor: text;
+      text-decoration: none;
+      white-space: nowrap;
+  }
+}
+
+p, li {
+  font-size: em(16);
+  line-height: 1.8;
+  margin-top:0;
+
+  @include at-query($min, $mq-xl) {
+    font-size: em(18);
+  }
+}
+
+hr {
+  clear: both;
+  border-top: solid $color-border;
+  border-width: 1px 0 0;
+  margin: $gutter 0;
+  height: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 ($gutter / 2);
+  line-height: 1.4;
+}
+
+h1 {
+  font-size: em(24);
+  margin-bottom: 1em;
+  font-weight: 300;
+
+    @include at-query($min, 580px) {
+      font-size: 180%;
+    }
+
+    @include at-query($min, $mq-large) {
+      font-size: 220%;
+    }
+
+    @include at-query($min, $mq-xl) {
+      font-size: em(36);
+    }
+}
+
+h2 {
+  font-weight: bold;
+  margin-top: 1.5em;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+dl {
+  overflow: hidden;
+}
+
+dt {
+  float: left;
+  clear: left;
+  padding-bottom: $gutterS / 2;
+  width: 60%;
+
+  @include at-query($min, $mq-medium) {
+    width: 40%;
+  }
+
+  @include at-query($min, $mq-large) {
+    width: 50%;
+  }
+
+  &:after {
+    content: ':'
+  }
+}
+
+dd {
+  float: left;
+  padding-bottom: $gutterS / 2;
+}
+
+.o-h {
+  overflow: hidden;
+}
+
+small {
+  display: block;
+}

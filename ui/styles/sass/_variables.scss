@@ -1,0 +1,27 @@
+$base-font-size: 16;
+$body-font-size: em(16);
+
+// Font size and rhythm
+$base-unit: 9px;
+$base-rhythm: 3;
+$base-line-height: $base-unit * $base-rhythm;
+
+// Colors
+$body-font-color: $color-base;
+$body-link-color: $color-red;
+
+// Typography
+$fallback-font-family: 'Arial', 'Helvetica', sans-serif !default;
+$base-font-family: 'Open Sans', 'sans-serif', $fallback-font-family !default;
+
+// Media query breakpoints
+$mq-small: 480px;
+$mq-medium: 610px;
+$mq-large: 769px;
+$mq-xl: 960px;
+$mq-max: 1100px;
+
+// Gutter
+$gutter: $base-line-height;
+$gutterXL: $gutter * 2;
+$gutterS: 20px;

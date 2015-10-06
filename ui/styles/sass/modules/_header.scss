@@ -1,0 +1,46 @@
+header {
+  @include at-query($min, $mq-large) {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 1;
+  }
+}
+
+.site-header {
+    background-color: $color-bg;
+    text-align: center;
+    padding: 17px 0;
+
+    @include at-query($min, $mq-large) {
+      padding: 19px 0 40px;
+    }
+
+    @include at-query($min, $mq-xl) {
+      padding: ($gutter + 5) 0 $gutter;
+    }
+}
+
+.site-logo {
+  width: 120px;
+  display: block;
+  margin: 0 auto;
+
+  @include at-query($min, $mq-small) {
+    width: 145px;
+  }
+
+  @include at-query($min, $mq-large) {
+    width: 165px;
+  }
+
+  @include at-query($min, $mq-xl) {
+    width: 200px;
+  }
+
+  img {
+      width: 100%;
+      display: block;
+  }
+}
