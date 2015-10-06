@@ -3,7 +3,8 @@ ErrorDocument 404 /404.php
 
 
 ## REDIRECT OLD PAGES
-Redirect 301 boka-tid.php /tidsbokning.php
+Redirect 301 boka-tid.php /tidsbokning/
+Redirect 301 welcome.php /start/
 
 
 ## REWRITE DEFAULTS
