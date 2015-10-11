@@ -1,7 +1,11 @@
 (function() {
   'use strict';
 
-  // Shorthand
+  // If IE8 - do nothing.
+  if (window.isIE8) {
+    return;
+  }
+
   var $ = document,
 
   DKH = {
