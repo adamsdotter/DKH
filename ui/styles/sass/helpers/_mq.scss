@@ -4,18 +4,32 @@
 ==============================================================================*/
 $min: min-width;
 $max: max-width;
-@mixin at-query ($constraint, $viewport1, $viewport2:null) {
-  @if $constraint == $min {
-    @media screen and ($min: $viewport1) {
-      @content;
+$fix-mqs: false !default;
+
+// $fix-mq when we want a fixed width for ie8 
+@mixin at-query($constraint, $viewport1, $viewport2:null) {
+    // If we're outputting for a fixed media query set...
+    @if $fix-mqs {
+        // ...and if we should apply these rules...
+        @if $fix-mqs >= $viewport1 {
+            // ...output the content the user gave us.
+            @content;
+        }
     }
-  } @else if $constraint == $max {
-    @media screen and ($max: $viewport1) {
-      @content;
+    @else {
+        // Otherwise, output it using a regular media query
+        @if $constraint == $min {
+          @media screen and ($min: $viewport1) {
+            @content;
+          }
+        } @else if $constraint == $max {
+          @media screen and ($max: $viewport1) {
+            @content;
+          }
+        } @else {
+          @media screen and ($min: $viewport1) and ($max: $viewport2) {
+            @content;
+          }
+        }
     }
-  } @else {
-    @media screen and ($min: $viewport1) and ($max: $viewport2) {
-      @content;
-    }
-  }
 }
