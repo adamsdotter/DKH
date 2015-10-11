@@ -8,7 +8,7 @@
                             <span>Lindhagensg. 140-142</span>,
                             <span>112 15</span> 
                             <span >Stockholm</span></li>
-                        <li class="site-footer-item"><a class="icon-fb" target="_blank" href="https://www.facebook.com/doktorkomhem" title="Doktor Kom Hem at Facebook"><span>Facebook</span></a>
+                        <li class="site-footer-item last-item"><a class="icon-fb" target="_blank" href="https://www.facebook.com/doktorkomhem" title="Doktor Kom Hem at Facebook"><span>Facebook</span></a>
                         </li>
                     </ul>
                 </div>
