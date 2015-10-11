@@ -102,14 +102,14 @@ dt {
   float: left;
   clear: left;
   padding-bottom: $gutterS / 2;
-  width: 60%;
+  width: 73%;
 
   @include at-query($min, $mq-medium) {
-    width: 40%;
+    width: 70%;
   }
 
   @include at-query($min, $mq-large) {
-    width: 50%;
+    width: 80%;
   }
 
   &:after {
