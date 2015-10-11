@@ -29,10 +29,12 @@
   margin-top: 0;
   margin-bottom: 0;
   color: #fff;
-  padding-left: $gutterS;
+  padding-left: 0;
+  list-style-type: none;
+  text-align: center;
 
   @include at-query($min, $mq-small) {
-    text-align: center;
+    
     padding-left: $gutter - 5px;
     padding-right: $gutter - 5px;
     display: table-cell;
