@@ -1,4 +1,4 @@
-<body>
+<body class="<?php echo $pageName; ?>">
 <?php require('nav.php'); ?>
     <header>
       <div class="container--full site-header" itemscope itemtype="http://schema.org/Organization">
