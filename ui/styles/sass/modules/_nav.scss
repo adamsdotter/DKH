@@ -1,14 +1,15 @@
 .nav-toggler {
   padding: 5px $gutterS 8px $gutterS;
-  background: $color-main url($menu) no-repeat  21px 15px;
+  background: $color-main url($menu) no-repeat 19px center;
 
   button {
     color: $color-nav;
     background-color: transparent;
     border: none;
     font-size: $body-font-size;
-    padding: 8px 20px 5px 31px;
-    cursor: pointer
+    padding: 5px 20px 4px 31px;
+    cursor: pointer;
+    vertical-align: middle;
   }
 
   @include at-query($min, $mq-large) {
