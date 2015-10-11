@@ -1,6 +1,6 @@
 .main {
   padding: ($gutter / 2) ($gutter - 10) $gutter;
-  margin-bottom: 250px;
+  margin-bottom: 200px;
   @include clearfix();
 
   @include at-query($min, $mq-small) {
@@ -54,10 +54,13 @@
   }
 }
 
-.staff {
+.color-box {
   background-color: lighten($color-purple, 57);
   list-style-type: none;
   padding: $gutterS $gutterS ($gutterS / 2);
+}
+
+.staff {
   margin-left: 0;
   margin-bottom: $gutter;
 
@@ -77,16 +80,38 @@
 
 .price-list {
   overflow: hidden;
+  padding-right: 0;
 
-  @include at-query($min, $mq-large) {
+  @include at-query($min, $mq-medium) {
     width: 50%;
     float: left;
+    padding-right: $gutter / 3;
+
+    + .price-list {
+      padding-right: 0;
+    }
+  }
+
+  @include at-query($min, $mq-large) {
     padding-right: $gutter;
+
+    + .price-list {
+      padding-right: 0;
+    }
+  }
+
+  dd {
+    float: left;
+    margin-left: $gutter / 3;
   }
 
   dl {
     margin-bottom: $gutter;
     width: 100%;
+
+    @include at-query($min, $mq-xl) {
+      padding: ($gutter - 3) $gutter $gutter / 2;
+    }
   }
 
   h3 {
@@ -95,5 +120,13 @@
 
   small {
     clear: both;
+  }
+}
+
+.prices {
+  .page-img {
+    @include at-query($min, $mq-medium) {
+      margin-top: 5.5em;
+    }
   }
 }
