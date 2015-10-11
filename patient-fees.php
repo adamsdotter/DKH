@@ -17,7 +17,7 @@
             <h1><?php echo $pageTitle; ?></h1>
             <div class="price-list">
                 <h3>Visits</h3>
-                <dl>
+                <dl class="color-box">
                     <dt>Visit doctor</dt><dd>200 kr</dd>
                     <dt>Visit doctor &lt; 18 yrs</dt><dd>Free</dd>
                     <dt>Home visis by doctor</dt><dd>300 kr</dd>
@@ -33,7 +33,7 @@
             </div>
             <div class="price-list">
                 <h3>Certificates</h3>
-                <dl class="price-list">
+                <dl class="color-box">
                     <dt>Driving license</dt><dd>700 kr</dd>
                     <dt>Adoption + HIV test</dt><dd>800 kr</dd>
                     <dt>Health Certificate</dt><dd>700 kr</dd>

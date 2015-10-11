@@ -17,11 +17,11 @@
             <h1><?php echo $pageTitle; ?></h1>
             <div class="price-list">
                 <h3>Besök</h3>
-                <dl>
+                <dl class="color-box">
                     <dt>Läkarbesök</dt><dd>200 kr</dd>
                     <dt>Läkarbesök &lt; 18 år</dt><dd>Gratis</dd>
                     <dt>Hembesök läkare</dt><dd>300 kr</dd>
-                    <dt>Distriktssköterskebesök</dt><dd>100 kr</dd>
+                    <dt>DSK-besök</dt><dd>100 kr</dd>
                     <dt>Kurator första besök</dt><dd>100 kr</dd>
                     <dt>Kurator återbesök</dt><dd>100 kr</dd>
                     <dt>Telefonrecept</dt><dd>Gratis</dd>
@@ -33,7 +33,7 @@
             </div>
             <div class="price-list">
                 <h3>Intyg</h3>
-                <dl class="price-list">
+                <dl class="color-box">
                     <dt>Körkortsintyg</dt><dd>700 kr</dd>
                     <dt>Adoption inkl HIV-test</dt><dd>800 kr</dd>
                     <dt>Friskhetsintyg</dt><dd>700 kr</dd>

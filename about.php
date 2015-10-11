@@ -20,7 +20,7 @@
                     Here at Doktor Kom Hem, you will meet friendly doctors and nurses with many years of experience.
                 </p>
                 <p>We who work at the clinic:</p>
-                <ul class="staff">
+                <ul class="staff color-box">
                     <li><strong>Dr. Ewabritt Andersson</strong>, manager, general practitioner</li>
                     <li><strong>Dr. Kadir Kakili</strong>, general practitioner</li>
                     <li><strong>Dr. Eva Maria Lundell</strong>, general practitioner</li>

@@ -20,7 +20,7 @@
                     Hos oss på Doktor Kom Hem möts du av husläkare och sköterskor med många års erfarenhet.
                 </p>
                 <p>Vi som jobbar på mottagningen är:</p>
-                <ul class="staff">
+                <ul class="staff color-box">
                     <li><strong>Dr. Ewabritt Andersson</strong>, verksamhetschef, specialist i allmänmedicin</li>
                     <li><strong>Dr. Kadir Kakili</strong>, specialist i allmänmedicin</li>
                     <li><strong>Dr. Eva Maria Lundell</strong>, specialist i allmänmedicin</li>
