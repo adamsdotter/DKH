@@ -28,7 +28,8 @@
                     <dt>Influenza vaccination</dt><dd>200 kr</dd>
                     <dt>Pneumococcal vaccination</dt><dd>300 kr</dd>
                     <dt>Health checkup</dt><dd>2000 kr</dd>
-                    <dt>TBE vaccine</dt><dd>300 kr</dd>
+                    <dt>TBE vaccine adult</dt><dd>350 kr</dd>
+                    <dt>TBE vaccine children</dt><dd>300 kr</dd>
                 </dl>
             </div>
             <div class="price-list">
@@ -36,14 +37,14 @@
                 <dl class="color-box">
                     <dt>Driving license</dt><dd>700 kr</dd>
                     <dt>Adoption + HIV test</dt><dd>800 kr</dd>
+                    <dt>Doctor Certificate</dt><dd>500 kr</dd>
                     <dt>Health Certificate</dt><dd>700 kr</dd>
                     <dt>Studying abroad</dt><dd>700 kr</dd>
-                    <dt>Seafarers</dt><dd>700 kr *</dd>
                     <dt>Insurance Certificate</dt><dd>1400 kr</dd>
                     <dt>Cancelation of trip</dt><dd>500 kr</dd>
                     <dt>First Day Declaration</dt><dd>313 kr **</dd>
+                    <dt>Occupancy of medication during flight</dt><dd>313 kr</dd>
                 </dl>
-                <small>* In case of chest X-ray, an additional fee of 600 SEK will apply.</small>
                 <small>** The fee for a physician visit will apply.</small>
             </div>
             <div class="page-content">
