@@ -17,7 +17,7 @@
             <h1><?php echo $pageTitle; ?></h1>
             <div class="price-list">
                 <h3>Besök</h3>
-                <dl class="color-box">
+                <dl class="color-box cushycms">
                     <dt>Läkarbesök</dt><dd>200 kr</dd>
                     <dt>Läkarbesök &lt; 18 år</dt><dd>Gratis</dd>
                     <dt>Hembesök läkare</dt><dd>300 kr</dd>
@@ -34,7 +34,7 @@
             </div>
             <div class="price-list">
                 <h3>Intyg</h3>
-                <dl class="color-box">
+                <dl class="color-box cushycms">
                     <dt>Körkortsintyg</dt><dd>700 kr</dd>
                     <dt>Adoption inkl HIV-test</dt><dd>800 kr</dd>
                     <dt>Läkarintyg</dt><dd>500 kr</dd>
@@ -47,7 +47,7 @@
                 </dl>
                 <small>** Avgift för läkarbesök med bedömning tillkommer.</small>
             </div>
-            <div class="page-content">
+            <div class="page-content cushycms">
                 <h2>Avbokning</h2>
                 <p>
                     Fr.o.m Januari 2015 har Stockholms Läns Landsting beslutat att 

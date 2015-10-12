@@ -15,7 +15,7 @@
     <?php require_once('assets/sv/header.php'); ?>
         <main class="main container--full bg">
             <h1><?php echo $pageTitle; ?></h1>
-            <div class="page-content">
+            <div class="page-content cushycms">
                 <p><b>Trött på långa väntetider? – Boka en tid hos oss!</b></p>
                 <p>Bästa sättet att boka en tid hos oss är att ringa vår växel:</p>
                 <p class="large"><a href="tel:08-6569700">08-656 97 00</a></p>

@@ -15,7 +15,7 @@
     <?php require_once('assets/sv/header.php'); ?>
         <main class="main container--full bg">
             <h1><?php echo $pageTitle; ?></h1>
-            <div class="page-content">
+            <div class="page-content cushycms">
                 <p>Vill du jobba på Doktor Kom Hem? Just nu söker vi:</p>
                 <h2>Distriktssköterska</h2>
                 <p>Doktor Kom Hem är en trevlig husläkarmottagning på Kungsholmen. Vi är ett glatt och härligt gäng som trivs med att jobba ihop.</p>

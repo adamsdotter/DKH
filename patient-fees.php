@@ -17,7 +17,7 @@
             <h1><?php echo $pageTitle; ?></h1>
             <div class="price-list">
                 <h3>Visits</h3>
-                <dl class="color-box">
+                <dl class="color-box cushycms">
                     <dt>Visit doctor</dt><dd>200 kr</dd>
                     <dt>Visit doctor &lt; 18 yrs</dt><dd>Free</dd>
                     <dt>Home visis by doctor</dt><dd>300 kr</dd>
@@ -34,7 +34,7 @@
             </div>
             <div class="price-list">
                 <h3>Certificates</h3>
-                <dl class="color-box">
+                <dl class="color-box cushycms">
                     <dt>Driving license</dt><dd>700 kr</dd>
                     <dt>Adoption + HIV test</dt><dd>800 kr</dd>
                     <dt>Doctor Certificate</dt><dd>500 kr</dd>
@@ -47,7 +47,7 @@
                 </dl>
                 <small>** The fee for a physician visit will apply.</small>
             </div>
-            <div class="page-content">
+            <div class="page-content cushycms">
                 <h2>Cancellation</h2>
                 <p>
                     In January 2015, the Stockholm County Council (Stockholms Läns Landsting) decided that <i>cancellations 

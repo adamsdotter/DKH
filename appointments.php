@@ -15,7 +15,7 @@
     <?php require_once('assets/en/header.php'); ?>
         <main class="main container--full bg">
             <h1><?php echo $pageTitle; ?></h1>
-            <div class="page-content">
+            <div class="page-content cushycms">
                 <p><b>Tired of long waiting times? - Book an appointment with us!</b></p>
                 <p>The best way to make an appointment with us is to call our reception:</p>
                 <p class="large"><a href="tel:+46-86569700">+46 (0) 8-656 97 00</a></p>

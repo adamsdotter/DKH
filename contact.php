@@ -15,7 +15,7 @@
     <?php require_once('assets/en/header.php'); ?>
         <main class="main container--full bg">
             <h1><?php echo $pageTitle; ?></h1>
-            <div class="page-content">
+            <div class="page-content cushycms">
                 <p>We are located on <a href="https://www.google.se/maps/place/Lindhagensgatan+142,+112+16+Stockholm/@59.339131,18.0058207,17z/data=!4m2!3m1!1s0x465f9d862457ff97:0xcc4def0b1b2972bb" target="_blank" title="Öppna i Google Maps">Lindhagensgatan 140-142</a> at Kungsholmen. We are <b>open Mon-Fri 08:00-17:00</b>.</p>
                 <p>To book an appointment with us, please call our <b>reception <a href="tel:+468-6569700">+46 (0) 8-656 97 00</a></b>.</p>
                 <p>When the clinic is closed, we refer to Bromma Akuten jourmottagning at Brommaplan. Phone .<a href="tel:+468-50585400">+46 (0) 8-505854 00</a>, street address Tunnlandet 1. </p>

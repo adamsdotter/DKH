@@ -15,7 +15,7 @@
     <?php require_once('assets/sv/header.php'); ?>
         <main class="main container--full bg">
             <h1><?php echo $pageTitle; ?></h1>
-            <div class="page-content">
+            <div class="page-content cushycms">
                 <p>
                     Hos oss på Doktor Kom Hem möts du av husläkare och sköterskor med många års erfarenhet.
                 </p>

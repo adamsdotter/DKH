@@ -14,7 +14,7 @@
     <?php require_once('assets/en/header.php'); ?>
         <main class="main container--full bg">
             <h1><?php echo $pageTitle; ?></h1>
-            <div class="page-content">
+            <div class="page-content cushycms">
                 <p>Doktor Kom Hem is a genuine family practice in Hornsberg / Lindhagen at Kungsholmen in Stockholm. Here you'll find general practitioners and nurses with many years of experience.</p>
                 <p>We are located on Lindhagensgatan 140-142 and are open Mon-Fri 8.00-17.00.</p>
                 <p>Welcome to contact us for more information or to book an appointment on <a href="tel:+4686569700">+46 (0) 8-656 97 00</a>.</p>

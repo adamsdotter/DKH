@@ -15,7 +15,7 @@
     <?php require_once('assets/en/header.php'); ?>
         <main class="main container--full bg">
             <h1><?php echo $pageTitle; ?></h1>
-            <div class="page-content">
+            <div class="page-content cushycms">
                 <p>
                     Here at Doktor Kom Hem, you will meet friendly doctors and nurses with many years of experience.
                 </p>
