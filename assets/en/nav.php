@@ -16,11 +16,11 @@
                 <li <?php if($pageName === 'prices') echo 'class="active"'; ?>>
                     <a class="site-nav-link" href="/patient-fees" title="Patient fees">Patient fees</a>
                 </li>
-                <li <?php if($pageName === 'contact') echo 'class="active"'; ?>>
-                    <a class="site-nav-link" href="/contact" title="Contact">Contact</a>
-                </li>
                 <li <?php if($pageName === 'vardval') echo 'class="active"'; ?>>
                     <a class="site-nav-link" href="/choose-doctor" title="Vårdval Stockholm - choose doctor">Vårdval Stockholm</a>
+                </li>
+                <li <?php if($pageName === 'contact') echo 'class="active"'; ?>>
+                    <a class="site-nav-link" href="/contact" title="Contact">Contact</a>
                 </li>
                 <li>
                     <a class="icon-flag flag--swe site-nav-link" href="/" title="På svenska"><span >På svenska</span></a>

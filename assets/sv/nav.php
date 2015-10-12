@@ -16,14 +16,14 @@
                 <li <?php if($pageName === 'prices') echo 'class="active"'; ?>>
                     <a class="site-nav-link" href="/patientavgifter" title="Patientavgifter">Patientavgifter</a>
                 </li>
+                <li <?php if($pageName === 'vardval') echo 'class="active"'; ?>>
+                    <a class="site-nav-link" href="/vardval-stockholm" title="Vårdval Stockholm">Vårdval Stockholm</a>
+                </li>
                 <li <?php if($pageName === 'contact') echo 'class="active"'; ?>>
                     <a class="site-nav-link" href="/kontakt" title="Kontakta oss">Kontakt</a>
                 </li>
                 <li <?php if($pageName === 'jobs') echo 'class="active"'; ?>>
                     <a class="site-nav-link" href="/lediga-jobb" title="Jobba hos oss">Lediga jobb</a>
-                </li>
-                <li <?php if($pageName === 'vardval') echo 'class="active"'; ?>>
-                    <a class="site-nav-link" href="/vardval-stockholm" title="Vårdval Stockholm">Vårdval Stockholm</a>
                 </li>
                 <li>
                     <a class="icon-flag flag--eng site-nav-link" href="/start" title="In English"><span>In English</span></a>
