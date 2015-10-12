@@ -23,6 +23,9 @@
                 <p>
                     Vi har ingen drop-in mottagning. Vänligen ring vår växel vid 08-tiden då vi släpper akuttiderna för dagen.
                 </p>
+                <p>
+                    Hembesök görs endast till Doktor Kom Hems listade patienter på Kungsholmen.
+                </p>
                 <p>Välkommen!</p>
             </div>
             <figure class="page-img">

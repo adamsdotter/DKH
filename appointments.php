@@ -23,6 +23,9 @@
                 <p>
                     We no longer have any drop-in appointments. Please call our reception at 08 o'clock, this is when we release the emergency times of the day.
                 </p>
+                <p>
+                    Home visits are only made to our listed patients at Kungsholmen.
+                </p>
                 <p>Welcome!</p>
             </div>
             <figure class="page-img">
