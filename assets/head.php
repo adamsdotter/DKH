@@ -22,9 +22,9 @@
             <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
         <![endif]-->
         <!--[if lte IE 8]>
-            <link rel="stylesheet" type="text/css" href="<?php echo $serverName; ?>/ui/styles/css/ie8.css" />
+            <link rel="stylesheet" type="text/css" href="<?php echo $serverName; ?>/ui/styles/css/oldIE.css" />
             <script type="text/javascript">
-                window.isIE8 = true;
+                window.isOldIE = true;
             </script>
         <![endif]-->
         <!--[if gt IE 8]><!-->

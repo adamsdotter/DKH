@@ -2,7 +2,7 @@
   'use strict';
 
   // If IE8 - do nothing.
-  if (window.isIE8) {
+  if (window.isOldIE) {
     return;
   }
 
