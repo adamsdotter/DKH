@@ -20,9 +20,9 @@
                 <p>To book an appointment with us, please call our <b>reception <a href="tel:+468-6569700">+46 (0) 8-656 97 00</a></b>.</p>
                 <p>When the clinic is closed, we refer to Bromma Akuten jourmottagning at Brommaplan. Phone .<a href="tel:+468-50585400">+46 (0) 8-505854 00</a>, street address Tunnlandet 1. </p>
                 <p><i>As of October 1, 2013 you can no longer communicate via email with us.</i> We apologize for this. This is a directive from the Hälso- och sjukvårdsnämnen in Stockholm. Data-/and patient confidentiality can not be guaranteed in this type of communication.</p>
-                <h2>Find us</h2>
-                <p>You can easily get to our Medical Practice by bus 49 or 56, or the green subway to Krisitineberg.</p>
-                <p>Bus 49 stops at the bus stop and Nordenflychtsvägen, bus 56 at Franzéngatan. If you are going by subway, catch the green line to Kristineberg, then walk towards Nordenflychtsvägen down to Lindhagensgatan, and take left on Lindhagensgatan towards the water.</p>
+                <h2>Getting here</h2>
+                <p>The easiest way to our practice is by bus 50 to "Moa Martinsons plats" which stops outside our clinic. Bus 61 goes via Fridhemsplan Fredhäll with its end station outside our door. Bus 56 from Hornsberg via Fridhemsplan towards Stora Essingen is also an option.</p>
+                <p>If you go by subway, take the green line to Kristineberg or the blue line to Stadshagen.</p>
             </div>
             <figure class="page-img">
                 <img src="<?php echo $images; ?>page-img/<?php echo $pageImg; ?>" alt="" />

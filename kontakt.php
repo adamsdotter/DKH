@@ -21,8 +21,8 @@
                 <p>När vårdcentralen är stängd hänvisar vi till Bromma Akutens jourmottagning vid Brommaplan. Telefon <a href="tel:08-50585400">08-505 854 00</a>, besöksadress Tunnlandet 1, 3tr.
                 <p><i>Från och med 1 oktober 2013 går det inte längre att kommunicera per e-post med Doktor Kom Hem.</i> Vi beklagar detta. Anledningen är direktiv från Hälso-och sjukvårdsnämnen i Stockholm då data-/och patientsekretessen ej kan garanteras med denna kommunikationsform. Vi hänvisar till Mina vårdkontakter, telefon 08-656 97 00 och/eller personligt besök.</p>
                 <h2>Hitta hit</h2>
-                <p>Du tar dig lättast till vår husläkarmottagning med buss 49 eller 56, eller grön t-bana mot Krisitineberg.</p>
-                <p>Buss 49 stannar på hållplatsen Nordenflychtsvägen och buss 56 på Franzéngatan. Åker du tunnelbana tar du grön linje till Kristineberg, därefter promenerar du Nordenflychtsvägen ned mot Lindhagensgatan och tar sedan vänster ner på Lindhagensgatan mot vattnet.</p>
+                <p>Du tar dig lättast till vår husläkarmottagning med buss 50 mot "Moa Martinsons torg" som går via Fridhemsplan och stannar utanför vår mottagning. Buss 61 går via Fridhemsplan till Fredhäll med slutstation utanför oss. Buss 56 från Hornsberg via Fridhemsplan mot Stora Essingen går också bra att ta.</p>
+                <p>Åker du tunnelbana tar du grön linje till Kristineberg eller blå linje till Stadshagen.</p>
             </div>
             <figure class="page-img">
                 <img src="<?php echo $images; ?>page-img/<?php echo $pageImg; ?>" alt="" />
