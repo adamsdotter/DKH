@@ -1,0 +1,56 @@
+.site-nav {
+  zoom: 1;
+  overflow: hidden;
+  height: 65px;
+
+  ul {
+    overflow: hidden;
+    margin-left: 0;
+    padding-left: 0;
+    zoom: 1;
+  }
+
+  li {
+    float: left;
+    zoom: 1;
+
+    a {
+      padding-right: 15px;
+      padding-left: 15px;
+    }
+  }
+
+  .icon-flag {
+      &:hover {
+        background-color: #8a298a;
+      }
+
+      margin-top:20px;
+  }
+}
+
+.page-content {
+  width: 49%;
+}
+
+.price-list {
+  width: 45%;
+  margin-right: 25px;
+
+  dt {
+    width: 300px;
+  }
+
+  dd {
+    float: left;
+    width: 90px;
+  }
+}
+
+.footer {
+  li {
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}

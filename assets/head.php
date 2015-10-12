@@ -27,6 +27,9 @@
                 window.isOldIE = true;
             </script>
         <![endif]-->
+        <!--[if lt IE 8]>
+            <link rel="stylesheet" type="text/css" href="<?php echo $serverName; ?>/ui/styles/css/ie7.css" />
+        <![endif]-->
         <!--[if gt IE 8]><!-->
             <link rel="stylesheet" type="text/css" href="<?php echo $serverName; ?>/ui/styles/css/dkh.css" />
         <!--<![endif]-->
