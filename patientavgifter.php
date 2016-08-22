@@ -17,34 +17,37 @@
             <h1><?php echo $pageTitle; ?></h1>
             <div class="price-list">
                 <h3>Besök</h3>
-                <dl class="color-box cushycms">
-                    <dt>Läkarbesök</dt><dd>200 kr</dd>
-                    <dt>Läkarbesök &lt; 18 år</dt><dd>Gratis</dd>
-                    <dt>Hembesök läkare</dt><dd>300 kr</dd>
-                    <dt>DSK-besök</dt><dd>100 kr</dd>
-                    <dt>Kurator första besök</dt><dd>100 kr</dd>
-                    <dt>Kurator återbesök</dt><dd>100 kr</dd>
-                    <dt>Telefonrecept</dt><dd>Gratis</dd>
-                    <dt>Vaccination Influensa</dt><dd>200 kr</dd>
-                    <dt>Vaccination Pneumokock</dt><dd>300 kr</dd>
-                    <dt>Hälsokontroll</dt><dd>2000 kr</dd>
-                    <dt>TBE-vaccin vuxen</dt><dd>350 kr</dd>
-                    <dt>TBE-vaccin barn</dt><dd>300 kr</dd>
-                </dl>
+                <div class="cushycms">
+                    <dl class="color-box">
+                        <dt>Läkarbesök</dt><dd>200 kr</dd>
+                        <dt>Läkarbesök &lt; 18 år</dt><dd>Gratis</dd>
+                        <dt>Hembesök läkare</dt><dd>300 kr</dd>
+                        <dt>DSK-besök</dt><dd>100 kr</dd>
+                        <dt>Kurator första besök</dt><dd>100 kr</dd>
+                        <dt>Kurator återbesök</dt><dd>100 kr</dd>
+                        <dt>Telefonrecept</dt><dd>Gratis</dd>
+                        <dt>Vaccination Influensa</dt><dd>200 kr</dd>
+                        <dt>Vaccination Pneumokock</dt><dd>300 kr</dd>
+                        <dt>Hälsokontroll</dt><dd>2000 kr</dd>
+                        <dt>TBE-vaccin</dt><dd>300 kr</dd>
+                    </dl>
+                </div>
             </div>
             <div class="price-list">
                 <h3>Intyg</h3>
-                <dl class="color-box cushycms">
-                    <dt>Körkortsintyg</dt><dd>700 kr</dd>
-                    <dt>Adoption inkl HIV-test</dt><dd>800 kr</dd>
-                    <dt>Läkarintyg</dt><dd>500 kr</dd>
-                    <dt>Friskhetsintyg</dt><dd>700 kr</dd>
-                    <dt>Studier utomlands</dt><dd>700 kr</dd>
-                    <dt>Försäkringsintyg</dt><dd>1400 kr</dd>
-                    <dt>Intyg för avbokning av resa</dt><dd>500 kr</dd>
-                    <dt>Förstadagsintyg</dt><dd>313 kr **</dd>
-                    <dt>Innehavande av medicin under flygning</dt><dd>313 kr</dd>
-                </dl>
+                <div class="cushycms">
+                    <dl class="color-box">
+                        <dt>Körkortsintyg</dt><dd>700 kr</dd>
+                        <dt>Adoption inkl HIV-test</dt><dd>800 kr</dd>
+                        <dt>Läkarintyg</dt><dd>500 kr</dd>
+                        <dt>Friskhetsintyg</dt><dd>700 kr</dd>
+                        <dt>Studier utomlands</dt><dd>700 kr</dd>
+                        <dt>Försäkringsintyg</dt><dd>1400 kr</dd>
+                        <dt>Intyg för avbokning av resa</dt><dd>500 kr</dd>
+                        <dt>Förstadagsintyg</dt><dd>313 kr **</dd>
+                        <dt>Innehavande av medicin under flygning</dt><dd>313 kr</dd>
+                    </dl>
+                </div>
                 <small>** Avgift för läkarbesök med bedömning tillkommer.</small>
             </div>
             <div class="page-content cushycms">

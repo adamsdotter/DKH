@@ -17,34 +17,37 @@
             <h1><?php echo $pageTitle; ?></h1>
             <div class="price-list">
                 <h3>Visits</h3>
-                <dl class="color-box cushycms">
-                    <dt>Visit doctor</dt><dd>200 kr</dd>
-                    <dt>Visit doctor &lt; 18 yrs</dt><dd>Free</dd>
-                    <dt>Home visis by doctor</dt><dd>300 kr</dd>
-                    <dt>Visit nurse</dt><dd>100 kr</dd>
-                    <dt>Curator first visit</dt><dd>100 kr</dd>
-                    <dt>Curator revists</dt><dd>100 kr</dd>
-                    <dt>Prescription by phone</dt><dd>Gratis</dd>
-                    <dt>Influenza vaccination</dt><dd>200 kr</dd>
-                    <dt>Pneumococcal vaccination</dt><dd>300 kr</dd>
-                    <dt>Health checkup</dt><dd>2000 kr</dd>
-                    <dt>TBE vaccine adult</dt><dd>350 kr</dd>
-                    <dt>TBE vaccine children</dt><dd>300 kr</dd>
-                </dl>
+                <div class="cushycms">
+                    <dl class="color-box">
+                        <dt>Visit doctor</dt><dd>200 kr</dd>
+                        <dt>Visit doctor &lt; 18 yrs</dt><dd>Free</dd>
+                        <dt>Home visis by doctor</dt><dd>300 kr</dd>
+                        <dt>Visit nurse</dt><dd>100 kr</dd>
+                        <dt>Curator first visit</dt><dd>100 kr</dd>
+                        <dt>Curator revists</dt><dd>100 kr</dd>
+                        <dt>Prescription by phone</dt><dd>Gratis</dd>
+                        <dt>Influenza vaccination</dt><dd>200 kr</dd>
+                        <dt>Pneumococcal vaccination</dt><dd>300 kr</dd>
+                        <dt>Health checkup</dt><dd>2000 kr</dd>
+                        <dt>TBE vaccine</dt><dd>300 kr</dd>
+                    </dl>
+                </div>
             </div>
             <div class="price-list">
                 <h3>Certificates</h3>
-                <dl class="color-box cushycms">
-                    <dt>Driving license</dt><dd>700 kr</dd>
-                    <dt>Adoption + HIV test</dt><dd>800 kr</dd>
-                    <dt>Doctor Certificate</dt><dd>500 kr</dd>
-                    <dt>Health Certificate</dt><dd>700 kr</dd>
-                    <dt>Studying abroad</dt><dd>700 kr</dd>
-                    <dt>Insurance Certificate</dt><dd>1400 kr</dd>
-                    <dt>Cancelation of trip</dt><dd>500 kr</dd>
-                    <dt>First Day Declaration</dt><dd>313 kr **</dd>
-                    <dt>Occupancy of medication during flight</dt><dd>313 kr</dd>
-                </dl>
+                <div class="cushycms">
+                    <dl class="color-box">
+                        <dt>Driving license</dt><dd>700 kr</dd>
+                        <dt>Adoption + HIV test</dt><dd>800 kr</dd>
+                        <dt>Doctor Certificate</dt><dd>500 kr</dd>
+                        <dt>Health Certificate</dt><dd>700 kr</dd>
+                        <dt>Studying abroad</dt><dd>700 kr</dd>
+                        <dt>Insurance Certificate</dt><dd>1400 kr</dd>
+                        <dt>Cancelation of trip</dt><dd>500 kr</dd>
+                        <dt>First Day Declaration</dt><dd>313 kr **</dd>
+                        <dt>Occupancy of medication during flight</dt><dd>313 kr</dd>
+                    </dl>
+                </div>
                 <small>** The fee for a physician visit will apply.</small>
             </div>
             <div class="page-content cushycms">
