@@ -1,0 +1,24 @@
+// IE8
+$fix-mqs: 769px;
+$pageWidth: 960px;
+
+@import 'dkh';
+
+.last-item:after {
+  display: none;
+}
+
+.container--full {
+  width: $pageWidth;
+}
+
+.site-nav,
+.footer {
+  margin-left: auto;
+  margin-right: auto;
+  min-width: $pageWidth;
+}
+
+.wrapper {
+  overflow: visible;
+}
