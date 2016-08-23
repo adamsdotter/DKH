@@ -8,7 +8,7 @@
     $siteLang = 'sv';
     $pageName = 'jobs'; // To set active in nav
     $pageTitle = 'Lediga jobb';
-    $pageImg = 'tittut.jpg';
+    $pageImg = 'korridor.jpg';
 ?>
 
 <?php require_once('assets/head.php'); ?>
