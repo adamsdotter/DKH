@@ -67,6 +67,16 @@
   li {
     margin-bottom: 10px;
   }
+
+  @include at-query($min, $mq-medium) {
+    width: 50%;
+    float: left;
+    padding-right: $gutter / 3;
+  }
+
+  @include at-query($min, $mq-large) {
+
+  }
 }
 
 .large {
