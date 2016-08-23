@@ -38,6 +38,14 @@
   }
 }
 
+.page-content.no-image {
+  width: 100%;
+
+  @media screen and (min-width: 960px) {
+    width: 80%;
+  }
+}
+
 .page-img {
   width: 75%;
   margin: $gutter auto 0;
@@ -60,22 +68,57 @@
   padding: $gutterS $gutterS ($gutterS / 2);
 }
 
+.staff-img {
+  display: block;
+
+  img {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+.staff-name strong {
+  display: block;
+}
+
+.staff-list {
+  clear: left;
+}
+
 .staff {
   margin-left: 0;
   margin-bottom: $gutter;
-
-  li {
-    margin-bottom: 10px;
-  }
+  list-style-type: none;
+  padding-top: $gutter;
+  padding-right: $gutter * 2;
+  padding-left: $gutter * 2;
 
   @include at-query($min, $mq-medium) {
-    width: 50%;
-    float: left;
-    padding-right: $gutter / 3;
+    padding-left: 0;
+    padding-right: 0;
+    display: flex;
+    flex-wrap: wrap;
   }
 
-  @include at-query($min, $mq-large) {
+  li {
+    margin-bottom: $gutter;
+    list-style-type: none;
+    width: 100%;
+    text-align: center;
 
+    @include at-query($min, $mq-medium) {
+      width: 50%;
+      padding-left: $gutter;
+      padding-right: $gutter;
+    }
+
+    @include at-query($min, $mq-large) {
+      width: 33.3333%;
+    }
+
+    @include at-query($min, $mq-xl) {
+      width: 25%;
+    }
   }
 }
 
