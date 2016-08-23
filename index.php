@@ -22,10 +22,6 @@
 
 <p>Akut: N&auml;r v&aring;rdcentralen &auml;r st&auml;ngd h&auml;nvisar vi till Bromma Akutens jourmottagning p&aring; Tunnlandet 1 vid Brommaplan. Telefon <a href="tel:08-50585400">08-505 854 00</a>.</p>
 
-<h2>Vaccination s&auml;songsinfluensa</h2>
-
-<p>V&auml;lkommen in till oss f&ouml;r vaccination mot&nbsp;&aring;rets s&auml;songsinfluensa.&nbsp;Vaccinationskampanjen p&aring;g&aring;r mellan 3:e november 2015 till&nbsp;29 februari&nbsp;2016.&nbsp;Vi har dropin-mottagning m&aring;ndagar och torsdagar mellan 14:00-16:00.&nbsp;Om du &ouml;nskar att&nbsp;vaccinera vid ett annat tillf&auml;lle &auml;r du v&auml;lkommen att ringa och boka tid.</p>
-
 <p>Varmt v&auml;lkommen &ouml;nskar vi p&aring; Doktor Kom Hem!</p>
 </div>
             <figure class="page-img">

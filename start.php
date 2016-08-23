@@ -22,10 +22,6 @@
 
 <p>Emergency: When our clinic is closed, we recommend you to go to Bromma Akuten jourmottagning at Brommaplan. Phone: <a href="tel:+468-50585400">+46 (0) 8-505 854 00</a> Address: Tunnlandet 1.</p>
 
-<h2>Vaccination against the season flu</h2>
-
-<p>Patients are now welcome for vaccination against the season flu. The vaccination campaign is between the 3rd of November 2015 until the 29th of February 2016. We have drop in appointments&nbsp;available for this vaccination Mondays and Thursdays between 2 pm&nbsp;and 4 pm. If you prefere to book an appointment for another time or day you&#39;re welcome to call and book an appointment.&nbsp;&nbsp;</p>
-
 <p>A warm welcome from us at Doktor Kom Hem!</p>
 </div>
             <figure class="page-img">
