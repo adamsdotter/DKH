@@ -22,6 +22,17 @@
 
 <p>Akut: N&auml;r v&aring;rdcentralen &auml;r st&auml;ngd h&auml;nvisar vi till Bromma Akutens jourmottagning p&aring; Tunnlandet 1 vid Brommaplan. Telefon <a href="tel:08-50585400">08-505 854 00</a>.</p>
 
+<h2>&Auml;ldremottagning p&aring; Doktor Kom hem husl&auml;karmottagning</h2>
+
+<p>P&aring; Doktor Kom hem husl&auml;karmottagning har vi startat en &auml;ldremottagning som &auml;r till f&ouml;r dig som &auml;r 75 &aring;r eller &auml;ldre och &auml;r listad hos oss. Syftet med denna del av&nbsp;mottagningen &auml;r att &ouml;ka tillg&auml;ngligheten och skapa en mer sammanh&aring;llen v&aring;rd genom att erbjuda dig en fast v&aring;rdkontakt med en sjuksk&ouml;terska och/eller l&auml;kare. Vi arbetar i team och kan vid behov g&ouml;ra planerade hembes&ouml;k tillsammans till dig som bor p&aring; Kungsholmen. Vi erbjuder bland annat:&nbsp;</p>
+
+<ul>
+	<li>H&auml;lsosamtal med en sjuksk&ouml;terska som &auml;r utbildad kost- och h&auml;lsocoach</li>
+	<li>Genomg&aring;ng av dina l&auml;kemedel tillsammans med en l&auml;kare</li>
+	<li>R&aring;dgivning och best&auml;llning av inkontinensskydd med distriktssk&ouml;terska</li>
+	<li>Vid behov samordnad individuell v&aring;rdplanering med kommun och rehab</li>
+</ul>
+
 <p>Varmt v&auml;lkommen &ouml;nskar vi p&aring; Doktor Kom Hem!</p>
 </div>
             <figure class="page-img">

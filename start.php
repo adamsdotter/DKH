@@ -22,6 +22,16 @@
 
 <p>Emergency: When our clinic is closed, we recommend you to go to Bromma Akuten jourmottagning at Brommaplan. Phone: <a href="tel:+468-50585400">+46 (0) 8-505 854 00</a> Address: Tunnlandet 1.</p>
 
+<h2>Elder&nbsp;Clinic at Doktor Kom hem</h2>
+<p>We have started an elderly clinic here at Doktor Kom hem that focuses on patients that are 75 years, or older and are listed here at our clinic. The purpose of this part of our clinic is to increase the availability and create a more joined care for elders by offering a steady healthcare process with a nurse and/or a doctor. By working in teams, we have the &nbsp;&nbsp;resources to do more planned home visits to our patients living in Kungsholmen. Among a variety of things, we offer:</p>
+
+<ul>
+	<li>Health consultation with our educated diet- and health coach-nurse.</li>
+	<li>Review of your medicine- and prescription status with a doctor.</li>
+	<li>Counselling and orders of enuresis supplies with a district nurse.</li>
+	<li>Co-ordination of individual care planning through municipal and communal rehabilitation</li>
+</ul>
+
 <p>A warm welcome from us at Doktor Kom Hem!</p>
 </div>
             <figure class="page-img">
