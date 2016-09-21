@@ -34,7 +34,7 @@
   text-align: center;
 
   @include at-query($min, $mq-small) {
-    
+
     padding-left: $gutter - 5px;
     padding-right: $gutter - 5px;
     display: table-cell;
@@ -74,19 +74,5 @@
       &:after {
       display: none;
     }
-  }
-}
-
-.icon-fb {
-  background: transparent url($fb) no-repeat  top center;
-  width: 25px;
-  height: 18px;
-  display: inline-block;
-  position: relative;
-  top: 4px;
-  left: -8px;
-
-  span {
-    @include visuallyHidden;
   }
 }
