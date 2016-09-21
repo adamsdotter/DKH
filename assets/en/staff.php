@@ -26,7 +26,7 @@
     </li>
     <li>
       <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/no-img.png" alt="Magdalena &Aring;senblom" />
+          <img src="<?php echo $images; ?>staff/magdalena.png" alt="Magdalena &Aring;senblom" />
       </figure>
       <figcaption class="staff-name">
           <strong>Magdalena &Aring;senblom</strong> Licensed district- and diabetes nurse
