@@ -53,7 +53,7 @@
           <img src="<?php echo $images; ?>staff/malin.png" alt="Malin K&auml;llgren" />
       </figure>
       <figcaption class="staff-name">
-          <strong>Malin K&auml;llgren</strong> Leg. sjuksk&ouml;terska
+          <strong>Malin Lemo'n</strong> Leg. sjuksk&ouml;terska
       </figcaption>
     </li>
     <li>
@@ -66,10 +66,18 @@
     </li>
     <li>
       <figure class="staff-img">
+          <img src="<?php echo $images; ?>staff/no-img.png" alt="Kajsa Törnqvist" />
+      </figure>
+      <figcaption class="staff-name">
+          <strong>Kajsa Törnqvist</strong> Receptionist
+      </figcaption>
+    </li>
+    <li>
+      <figure class="staff-img">
           <img src="<?php echo $images; ?>staff/pascal.png" alt="Pascal Andersson" />
       </figure>
       <figcaption class="staff-name">
-          <strong>Pascal Andersson</strong> Receptionist
+          <strong>Pascal Andersson</strong> IT-support
       </figcaption>
     </li>
   </ul>
