@@ -1,26 +1,18 @@
-header {
-  @include at-query($min, $mq-large) {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    z-index: 1;
-  }
-}
-
 .site-header {
     background-color: $color-bg;
     text-align: center;
-    padding: 5px 0 25px;
-    border-bottom: 1px solid #eaeaea;
+    padding: 10px 0;
+
+    @include at-query($min, $mq-medium) {
+      padding: 20px 0;
+    }
 
     @include at-query($min, $mq-large) {
-      padding: 19px 0 40px;
-      border-bottom: 0;
+      padding: 30px 0;
     }
 
     @include at-query($min, $mq-xl) {
-      padding: ($gutter + 5) 0 $gutter;
+      padding: 45px 0;
     }
 }
 

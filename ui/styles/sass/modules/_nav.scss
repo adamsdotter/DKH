@@ -20,26 +20,19 @@
 .site-nav {
   background-color: $color-main;
 
-  @include at-query($min, $mq-large) {
-    margin-top: 110px;
-    position: relative;
-    z-index: 2;
-  }
-
-  @include at-query($min, $mq-xl) {
-    margin-top: 126px;
-  }
-
-  @include at-query($min, $mq-xl) {
-    margin-top: 155px;
+  &.fixed {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 3;
   }
 
   ul {
-      margin-top: 0;
+      margin: 0;
       padding-left: 0;
       list-style-type: none;
       overflow-y: hidden;
-      
+
       .js & {
         max-height: 0;
       }
