@@ -1,5 +1,4 @@
 <body class="<?php echo $pageName; ?>">
-<?php require('nav.php'); ?>
     <header>
       <div class="container--full site-header" itemscope itemtype="http://schema.org/Organization">
         <a accesskey="1" rel="home" itemprop="url" class="site-logo" href="<?php echo $serverName; ?>" title="Doktor Kom Hem | Startpage">
@@ -7,4 +6,5 @@
         </a>
       </div>
     </header>
+    <?php require('nav.php'); ?>
     <div class="wrapper">
