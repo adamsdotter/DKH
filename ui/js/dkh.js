@@ -63,14 +63,19 @@
     stickyNav: {
       init: function() {
         var self = this;
-        this.nav = $.querySelector('.nav-container');
+        this.page = $.querySelector('html');
+        this.header = $.querySelector('header');
 
         this.scrollTop;
-        this.navHeight = $.querySelector('header').offsetHeight;
+        this.navHeight = this.getHeaderHeight();
 
         window.addEventListener('scroll', function() {
           self.handleScroll.call(self);
         });
+      },
+
+      getHeaderHeight: function() {
+        return this.header.offsetHeight;
       },
 
       handleScroll: function() {
@@ -84,18 +89,18 @@
       },
 
       hasClass: function() {
-        return this.nav.classList.contains('sticky');
+        return this.page.classList.contains('sticky');
       },
 
       addSticky: function() {
         if (!this.hasClass()) {
-            this.nav.classList.add('sticky');
+            this.page.classList.add('sticky');
         }
       },
 
       removeSticky: function() {
         if (this.hasClass()) {
-          this.nav.classList.remove('sticky');
+          this.page.classList.remove('sticky');
         }
       },
 

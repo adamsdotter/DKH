@@ -1,7 +1,13 @@
+$navHeight: 69px;
+
 .site-header {
     background-color: $color-bg;
     text-align: center;
     padding: 10px 0;
+
+    .sticky & {
+        margin-bottom: $navHeight;
+    }
 
     @include at-query($min, $mq-medium) {
       padding: 20px 0;

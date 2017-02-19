@@ -1,10 +1,8 @@
-.nav-container {
-    &.sticky {
-        position: fixed;
-        top: 0;
-        width: 100%;
-        z-index: 3;
-    }
+.sticky .nav-container {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 3;
 }
 
 .nav-toggler {
