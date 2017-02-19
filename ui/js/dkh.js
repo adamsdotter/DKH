@@ -10,7 +10,11 @@
 
   DKH = {
     init: function() {
-      this.menu.init( $.getElementById('toggle-nav'), $.getElementById('site-menu') );
+      var menuBtn = $.getElementById('toggle-nav');
+      var menuList = $.getElementById('site-menu');
+
+      this.menu.init(menuBtn, menuList);
+      this.stickyNav.init();
     },
 
     // Mobile nav
@@ -54,12 +58,59 @@
         ul.className = 'closed';
         this.state = 'closed';
       }
+    },
+
+    stickyNav: {
+      init: function() {
+        var self = this;
+        this.nav = $.querySelector('.nav-container');
+
+        this.scrollTop;
+        this.navHeight = $.querySelector('header').offsetHeight;
+
+        window.addEventListener('scroll', function() {
+          self.handleScroll.call(self);
+        });
+      },
+
+      handleScroll: function() {
+        this.scrollTop = window.scrollY;
+
+        if (this.scrollTop >= this.navHeight) {
+          this.addSticky();
+        } else {
+          this.removeSticky();
+        }
+      },
+
+      hasClass: function() {
+        return this.nav.classList.contains('sticky');
+      },
+
+      addSticky: function() {
+        if (!this.hasClass()) {
+            this.nav.classList.add('sticky');
+        }
+      },
+
+      removeSticky: function() {
+        if (this.hasClass()) {
+          this.nav.classList.remove('sticky');
+        }
+      },
+
+      debounce: function(fn, time, context) {
+        clearTimeout(fn.delay);
+
+        fn.delay = setTimeout(function(){
+            fn.call(context);
+        }, time);
+      }
     }
   };
 
-  $.addEventListener( 'DOMContentLoaded', function () {
+  $.addEventListener('DOMContentLoaded', function () {
       DKH.init();
   }, false );
 
 })();
-
