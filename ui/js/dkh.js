@@ -63,14 +63,20 @@
     stickyNav: {
       init: function() {
         var self = this;
-        this.page = $.querySelector('html');
-        this.header = $.querySelector('header');
 
         this.scrollTop;
+        this.page = $.querySelector('html');
+        this.header = $.querySelector('header');
         this.navHeight = this.getHeaderHeight();
 
         window.addEventListener('scroll', function() {
           self.handleScroll.call(self);
+        });
+
+        window.addEventListener('resize', function() {
+          self.debounce(function() {
+            this.navHeight = this.getHeaderHeight();
+          }, 500, self);
         });
       },
 
