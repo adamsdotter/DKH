@@ -1,3 +1,12 @@
+.nav-container {
+    &.sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 3;
+    }
+}
+
 .nav-toggler {
   padding: 5px $gutterS 8px $gutterS;
   background: $color-main url($menu) no-repeat 19px center;
@@ -19,13 +28,6 @@
 
 .site-nav {
   background-color: $color-main;
-
-  &.fixed {
-      position: fixed;
-      top: 0;
-      width: 100%;
-      z-index: 3;
-  }
 
   ul {
       margin: 0;
