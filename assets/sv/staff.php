@@ -66,7 +66,7 @@
     </li>
     <li>
       <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/no-img.png" alt="Kajsa Törnqvist" />
+          <img src="<?php echo $images; ?>staff/kajsa.png" alt="Kajsa Törnqvist" />
       </figure>
       <figcaption class="staff-name">
           <strong>Kajsa Törnqvist</strong> Receptionist
