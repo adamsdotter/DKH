@@ -58,10 +58,10 @@
     </li>
     <li>
       <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/no-img.png" alt="Inger Hagstr&ouml;m" />
+          <img src="<?php echo $images; ?>staff/no-img.png" alt="Marie-Louise Irgens" />
       </figure>
       <figcaption class="staff-name">
-          <strong>Inger Hagstr&ouml;m</strong> Licensed psychotherapist, CBT
+          <strong>Marie-Louise Irgens</strong> Licensed psychotherapist, CBT
       </figcaption>
     </li>
     <li>
