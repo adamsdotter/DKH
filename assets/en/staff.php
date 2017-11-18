@@ -34,10 +34,10 @@
     </li>
     <li>
       <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/no-img.png" alt="Kerstin Eklund" />
+          <img src="<?php echo $images; ?>staff/no-img.png" alt="Nathalie Nähr" />
       </figure>
       <figcaption class="staff-name">
-          <strong>Kerstin Eklund</strong> Licensed district nurse
+          <strong>Nathalie Nähr</strong> Licensed nurse
       </figcaption>
     </li>
     <li>
