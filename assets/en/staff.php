@@ -26,10 +26,10 @@
     </li>
     <li>
       <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/magdalena.png" alt="Magdalena &Aring;senblom" />
+          <img src="<?php echo $images; ?>staff/no-img.png" alt="Malin G&auml;rden&auml;s-Vinberg" />
       </figure>
       <figcaption class="staff-name">
-          <strong>Magdalena &Aring;senblom</strong> Licensed district- and diabetes nurse
+          <strong>Malin G&auml;rden&auml;s-Vinberg</strong> Licensed district- and diabetes nurse
       </figcaption>
     </li>
     <li>
@@ -61,7 +61,7 @@
           <img src="<?php echo $images; ?>staff/no-img.png" alt="Marie-Louise Irgens" />
       </figure>
       <figcaption class="staff-name">
-          <strong>Marie-Louise Irgens</strong> Licensed psychotherapist, CBT
+          <strong>Marie-Louise Irgens</strong> Licensed psychologist
       </figcaption>
     </li>
     <li>

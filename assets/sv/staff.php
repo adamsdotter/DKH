@@ -26,10 +26,10 @@
     </li>
     <li>
       <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/magdalena.png" alt="Magdalena &Aring;senblom" />
+          <img src="<?php echo $images; ?>staff/no-img.png" alt="Malin G&auml;rden&auml;s-Vinberg" />
       </figure>
       <figcaption class="staff-name">
-          <strong>Magdalena &Aring;senblom</strong> Leg. distrikts- och diabetessk&ouml;terska
+          <strong>Malin G&auml;rden&auml;s-Vinberg</strong> Leg. distrikts- och diabetessk&ouml;terska
       </figcaption>
     </li>
     <li>
@@ -61,7 +61,7 @@
           <img src="<?php echo $images; ?>staff/no-img.png" alt="Marie-Louise Irgens" />
       </figure>
       <figcaption class="staff-name">
-          <strong>Marie-Louise Irgens</strong> Leg.&nbsp;psykoterapeut, KBT
+          <strong>Marie-Louise Irgens</strong> Leg.&nbsp;psykolog
       </figcaption>
     </li>
     <li>
