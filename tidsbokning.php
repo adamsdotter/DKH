@@ -27,10 +27,9 @@
 
 <p>Hembes&ouml;k g&ouml;rs endast till Doktor Kom Hems listade patienter p&aring; Kungsholmen.</p>
 
-<p>Fr.o.m januari 2015 har Stockholms l&auml;ns landsting beslutat att&nbsp;avbokning av bes&ouml;k m&aring;ste ske senast 24 timmar innan utsatt bes&ouml;kstid. Avbokar du mindre &auml;n 24 timmar innan bes&ouml;kstiden eller uteblir kommer du debiteras den ordinarie patientavgiften. Detta g&auml;ller &auml;ven barn och ungdomar under 18 &aring;r, patienter med frikort samt patienter fyllda 85 &aring;r. Avbokningar tas endast emot via telefon, inte via mail. N&auml;r mottagningen &auml;r st&auml;ngd kan du l&auml;mna ett r&ouml;stmeddelande till mottagningens r&ouml;stbrevl&aring;da.&nbsp;</p>
+<p>Fr.o.m januari 2015 har Stockholms Läns Landsting beslutat att avbokning av besök ska ske senast 24 timmar innan utsatt besökstid. Avbokas besökstiden mindre än 24 timmar innan utsatt tid, debiteras ordinarie patientavgift. Detta gäller även barn och ungdomar under 18 år samt patienter med frikort. Avbokningar tas endast emot via telefon eller via "Mina vårdkontakter", inte via mail. När mottagningen är stängd lämnas meddelande på telefonsvararen.</p>
 
-<p>V&auml;lkommen!</p>
-</div>
+<p>V&auml;lkommen!</p></div>
             <figure class="page-img">
                 <img src="<?php echo $images; ?>page-img/<?php echo $pageImg; ?>" alt="" />
             </figure>

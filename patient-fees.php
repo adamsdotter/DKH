@@ -35,11 +35,11 @@
 	<dt>Influenza vaccination</dt>
 	<dd>200 kr</dd>
 	<dt>Pneumococcal vaccination</dt>
-	<dd>300 kr</dd>
+	<dd>380 kr</dd>
 	<dt>Health checkup</dt>
-	<dd>2000 kr</dd>
+	<dd>2500 kr</dd>
 	<dt>TBE vaccine</dt>
-	<dd>300 kr</dd>
+	<dd>350 kr</dd>
 </dl>
 </div>
             </div>

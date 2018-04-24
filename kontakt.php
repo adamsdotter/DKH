@@ -19,7 +19,7 @@
 
 <p>Om du vill boka en tid hos oss &auml;r b&auml;sta s&auml;ttet att ringa v&aring;r <b>v&auml;xel <a href="tel:08-6569700">08-656 97 00</a></b>.</p>
 
-<p>N&auml;r v&aring;rdcentralen &auml;r st&auml;ngd h&auml;nvisar vi till Bromma Akutens jourmottagning vid Brommaplan. Telefon <a href="tel:08-50585400">08-505 854 00</a>, bes&ouml;ksadress Tunnlandet 1, 3tr.</p>
+<p><strong>Akut:</strong> N&auml;r v&aring;rdcentralen &auml;r st&auml;ngd h&auml;nvisar vi till N&auml;rakuten Sabbatsberg som ligger vid Aleris Specialistv&aring;rd Sabbatsberg. Telefon <a href="tel:08-6723990">08-672 39 90</a>. Adress: Olivecronas v&auml;g 1, 113 24 Stockholm.</p>
 
 <p><i>Fr&aring;n och med 1 oktober 2013 g&aring;r det inte l&auml;ngre att kommunicera per e-post med Doktor Kom Hem.</i> Vi beklagar detta. Anledningen &auml;r direktiv fr&aring;n H&auml;lso-och sjukv&aring;rdsn&auml;mnen i Stockholm d&aring; data-/och patientsekretessen ej kan garanteras med denna kommunikationsform. Vi h&auml;nvisar till Mina v&aring;rdkontakter, telefon 08-656 97 00 och/eller personligt bes&ouml;k.</p>
 

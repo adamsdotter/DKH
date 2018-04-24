@@ -35,11 +35,11 @@
 	<dt>Vaccination Influensa</dt>
 	<dd>200 kr</dd>
 	<dt>Vaccination Pneumokock</dt>
-	<dd>300 kr</dd>
+	<dd>380 kr</dd>
 	<dt>H&auml;lsokontroll</dt>
-	<dd>2000 kr</dd>
+	<dd>2500 kr</dd>
 	<dt>TBE-vaccin</dt>
-	<dd>300 kr</dd>
+	<dd>350 kr</dd>
 </dl>
 </div>
             </div>
