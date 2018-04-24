@@ -18,29 +18,13 @@
     </li>
     <li>
       <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/evamaria.png" alt="Dr. Eva Maria Lundell" />
-      </figure>
-      <figcaption class="staff-name">
-        <strong>Dr. Eva Maria Lundell</strong> Specialist i allm&auml;nmedicin
-      </figcaption>
-    </li>
-    <li>
-      <figure class="staff-img">
           <img src="<?php echo $images; ?>staff/no-img.png" alt="Malin G&auml;rden&auml;s-Vinberg" />
       </figure>
       <figcaption class="staff-name">
           <strong>Malin G&auml;rden&auml;s-Vinberg</strong> Leg. distrikts- och diabetessk&ouml;terska
       </figcaption>
     </li>
-    <li>
-      <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/no-img.png" alt="Nathalie Nähr" />
-      </figure>
-      <figcaption class="staff-name">
-          <strong>Nathalie Nähr</strong> Leg. sjuksk&ouml;terska
-      </figcaption>
-    </li>
-    <li>
+	<li>
       <figure class="staff-img">
           <img src="<?php echo $images; ?>staff/maria.png" alt="Maria Rollstedt" />
       </figure>
@@ -56,6 +40,14 @@
           <strong>Malin Lemo'n</strong> Leg. sjuksk&ouml;terska
       </figcaption>
     </li>
+	<li>
+      <figure class="staff-img">
+          <img src="<?php echo $images; ?>staff/no-img.png" alt="Nathalie Nähr" />
+      </figure>
+      <figcaption class="staff-name">
+          <strong>Nathalie Nähr</strong> Leg. sjuksk&ouml;terska
+      </figcaption>
+    </li>
     <li>
       <figure class="staff-img">
           <img src="<?php echo $images; ?>staff/no-img.png" alt="Marie-Louise Irgens" />
@@ -66,10 +58,10 @@
     </li>
     <li>
       <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/kajsa.png" alt="Kajsa Törnqvist" />
+          <img src="<?php echo $images; ?>staff/no-img.png" alt="Ida Asplund" />
       </figure>
       <figcaption class="staff-name">
-          <strong>Kajsa Törnqvist</strong> Receptionist
+          <strong>Ida Asplund</strong> Receptionist
       </figcaption>
     </li>
     <li>
