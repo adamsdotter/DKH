@@ -14,17 +14,18 @@
     <?php require_once('assets/sv/header.php'); ?>
         <main class="main container--full bg">
             <h1><?php echo $pageTitle; ?></h1>
-            <div class="page-content cushycms"><p>Doktor Kom Hem &auml;r en trevlig liten husl&auml;karmottagning i Hornsberg / Lindhagen p&aring; Kungsholmen i Stockholm. Hos oss hittar du husl&auml;kare och sk&ouml;terskor med m&aring;nga &aring;rs erfarenhet.</p>
+            <div class="page-content cushycms">
+				<p>Doktor Kom Hem &auml;r en trevlig liten husl&auml;karmottagning i Hornsberg / Lindhagen p&aring; Kungsholmen i Stockholm. Hos oss hittar du husl&auml;kare och sk&ouml;terskor med m&aring;nga &aring;rs erfarenhet.</p>
 
-<p>Vi finns p&aring; Lindhagensgatan 140-142 och har &ouml;ppet m&aring;n-fre 8.00-17.00.</p>
+<p>Vi finns p&aring; Lindhagensgatan 140-142 och har &ouml;ppet m&aring;n-fre 8.00-17.00.<br />
+V&auml;lkommen att kontakta oss f&ouml;r mer information eller tidsbokning p&aring; <a href="tel:086569700">08-656 97 00</a>.</p>
 
-<p>V&auml;lkommen att kontakta oss f&ouml;r mer information eller tidsbokning p&aring; <a href="tel:086569700">08-656 97 00</a>.</p>
+<h2>Akut</h2>
+<p>N&auml;r v&aring;rdcentralen &auml;r st&auml;ngd h&auml;nvisar vi till Sabbatsbergs husläkarjour på Dalagatan 9, Sabbatsbergs sjukhus.<br />
+De har öppet vardagar kl 17-22. Lör, sön och helgdagar kl 8-22.<br />
+<a href="tel:086723990">Telefon 08-672 39 90. </a></p>
 
-<p>Akut: N&auml;r v&aring;rdcentralen &auml;r st&auml;ngd h&auml;nvisar vi till N&auml;rakuten Sabbatsberg som ligger vid Aleris Specialistv&aring;rd Sabbatsberg.<br />
-<a href="tel:086723990">Telefon 08-672 39 90. </a><br />
-Adress:&nbsp;Olivecronas v&auml;g 1,&nbsp;113 24 Stockholm.</p>
-
-<p><strong>&Auml;ldremottagning p&aring; Doktor Kom Hem husl&auml;karmottagning</strong></p>
+<h2>&Auml;ldremottagning p&aring; Doktor Kom Hem husl&auml;karmottagning</h2>
 
 <p>P&aring; Doktor Kom hem husl&auml;karmottagning har vi startat en &auml;ldremottagning som &auml;r till f&ouml;r dig som &auml;r 75 &aring;r eller &auml;ldre och &auml;r listad hos oss. Syftet med denna del av&nbsp;mottagningen &auml;r att &ouml;ka tillg&auml;ngligheten och skapa en mer sammanh&aring;llen v&aring;rd genom att erbjuda dig en fast v&aring;rdkontakt med en sjuksk&ouml;terska och/eller l&auml;kare. Vi arbetar i team och kan vid behov g&ouml;ra planerade hembes&ouml;k tillsammans till dig som bor p&aring; Kungsholmen. Vi erbjuder bland annat:&nbsp;</p>
 
