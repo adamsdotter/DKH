@@ -20,6 +20,15 @@
 <p>Vi finns p&aring; Lindhagensgatan 140-142 och har &ouml;ppet m&aring;n-fre 8.00-17.00.<br />
 V&auml;lkommen att kontakta oss f&ouml;r mer information eller tidsbokning p&aring; <a href="tel:086569700">08-656 97 00</a>.</p>
 
+<h2>Säsongens influensavaccin</h2>
+<p>
+	Fr.o.m 6 november 2018 t.o.m 28 februari 2019 finns säsongens influensavaccin tillgängligt.</p>
+<p>
+	<strong>Drop-in för vaccination:</strong> <br />
+	Tisdagar kl. 14-16 <br />
+	Torsdagar kl. 14-16
+</p>
+
 <h2>Akut</h2>
 <p>N&auml;r v&aring;rdcentralen &auml;r st&auml;ngd h&auml;nvisar vi till Sabbatsbergs husläkarjour på Dalagatan 9, Sabbatsbergs sjukhus.<br />
 De har öppet vardagar kl 17-22. Lör, sön och helgdagar kl 8-22.<br />

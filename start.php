@@ -18,6 +18,15 @@
 
 <p>We are located on Lindhagensgatan 140-142 and are open Mon-Fri 8.00-17.00. Welcome to contact us for more information or to book an appointment on <a href="tel:+4686569700">+46 (0) 8-656 97 00</a>.</p>
 
+<h2>Influenza vaccination</h2>
+<p>
+	From November the 6th 2018 until 28th of February 2019, the vaccine will be available.</p>
+<p>
+	<strong>Vaccination Drop-in time:</strong> <br />
+	Tuesdays between 14-16 <br />
+	Thursdays between 14-16
+</p>
+
 <h2>Emergency</h2>
 <p>When our clinic is closed, we recommend you to visit Sabbatsbergs husläkarjour, on Dalagatan 9, Sabbatsbergs sjukhus.<br />
 They are open weekdays between 17-22. Sat, Sun and public holidays 08-22. <a href="tel:+4686723990">Phone +46 (0) 8-672 39 90. </a></p>
