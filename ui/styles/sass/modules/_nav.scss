@@ -43,13 +43,7 @@
         max-height: 800px;
       }
 
-      @include at-query($max, $mq-large) {
-        text-align: left;
-      }
-
       @include at-query($min, $mq-large) {
-        text-align: center;
-
         .js & {
           max-height: none;
         }
