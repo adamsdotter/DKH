@@ -40,14 +40,6 @@
           <strong>Malin Lemo'n</strong> Licensed nurse
       </figcaption>
     </li>
-	<li>
-      <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/no-img.png" alt="Nathalie Nähr" />
-      </figure>
-      <figcaption class="staff-name">
-          <strong>Nathalie Nähr</strong> Licensed nurse
-      </figcaption>
-    </li>
     <li>
       <figure class="staff-img">
           <img src="<?php echo $images; ?>staff/no-img.png" alt="Marie-Louise Irgens" />

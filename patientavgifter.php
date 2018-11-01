@@ -33,7 +33,7 @@
 	<dt>Telefonrecept</dt>
 	<dd>Gratis</dd>
 	<dt>Vaccination Influensa</dt>
-	<dd>200 kr</dd>
+	<dd>250 kr</dd>
 	<dt>Vaccination Pneumokock</dt>
 	<dd>380 kr</dd>
 	<dt>H&auml;lsokontroll</dt>

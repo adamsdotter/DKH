@@ -33,7 +33,7 @@
 	<dt>Prescription by phone</dt>
 	<dd>Gratis</dd>
 	<dt>Influenza vaccination</dt>
-	<dd>200 kr</dd>
+	<dd>250 kr</dd>
 	<dt>Pneumococcal vaccination</dt>
 	<dd>380 kr</dd>
 	<dt>Health checkup</dt>

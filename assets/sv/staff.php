@@ -40,14 +40,6 @@
           <strong>Malin Lemo'n</strong> Leg. sjuksk&ouml;terska
       </figcaption>
     </li>
-	<li>
-      <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/no-img.png" alt="Nathalie Nähr" />
-      </figure>
-      <figcaption class="staff-name">
-          <strong>Nathalie Nähr</strong> Leg. sjuksk&ouml;terska
-      </figcaption>
-    </li>
     <li>
       <figure class="staff-img">
           <img src="<?php echo $images; ?>staff/no-img.png" alt="Marie-Louise Irgens" />
