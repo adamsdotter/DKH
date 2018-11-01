@@ -15,9 +15,14 @@
     <?php require_once('assets/sv/header.php'); ?>
         <main class="main container--full bg">
             <h1><?php echo $pageTitle; ?></h1>
-            <div class="page-content cushycms"><p>Vill du jobba p&aring; Doktor Kom Hem?</p>
+            <div class="page-content cushycms"><h3>Vill du jobba p&aring; Doktor Kom Hem?</h3>
 
-<p>Just nu har vi inga lediga tj&auml;nster, men vi &auml;r alltid p&aring; jakt efter duktiga medarbetare. &Auml;r du intresserad av att jobba hos oss &ndash; tveka inte att h&ouml;ra av dig!&nbsp;<a href="mailto:jobb@doktorkomhem.nu?subject=Jobbans%C3%B6kan%3A%20">jobb@doktorkomhem.nu</a></p>
+<p>Vi &auml;r alltid p&aring; jakt efter duktiga medarbetare!</p>
+<p>
+	Just nu söker vi en distriktssköterska då vår nuvarande distriktssköterska snart ska gå på föräldraledighet.<br />
+	Vänligen se <a href="https://www.arbetsformedlingen.se/For-arbetssokande/Hitta-jobb/Platsbanken/annonser/22857888" title="Visa annons" target="_blank">vår annons på Arbetsförmedlingen</a>.
+</p>
+<p>&Auml;r du intresserad av att jobba hos oss &ndash; tveka inte att h&ouml;ra av dig till <a href="mailto:jobb@doktorkomhem.nu?subject=Jobbans%C3%B6kan%3A%20">jobb@doktorkomhem.nu</a>!</p>
 </div>
             <figure class="page-img">
                 <img src="<?php echo $images; ?>page-img/<?php echo $pageImg; ?>" alt="" />
