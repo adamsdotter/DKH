@@ -19,7 +19,8 @@
 
 <p>To book an appointment with us, please call our <b>reception <a href="tel:+468-6569700">+46 (0) 8-656 97 00</a></b>.</p>
 
-<p>When the clinic is closed, we refer to "N&auml;rakuten Sabbatsberg" which is located in "Aleris Specialistv&aring;rd Sabbatsberg". Phone: <a href="tel:08-6723990">08-672 39 90</a>. Address: Olivecronas v&auml;g 1, 113 24 Stockholm.</p>
+<p><strong>Emergency:</strong> When our clinic is closed, we recommend you to visit Sabbatsbergs husläkarjour, on Dalagatan 9, Sabbatsbergs sjukhus.<br />
+They are open weekdays between 17-22. Sat, Sun and public holidays 08-22. <a href="tel:+4686723990">Phone +46 (0) 8-672 39 90. </a></p>
 
 <p><i>As of October 1, 2013 you can no longer communicate via email with us.</i> We apologize for this. This is a directive from the H&auml;lso- och sjukv&aring;rdsn&auml;mnen in Stockholm. Data-/and patient confidentiality can not be guaranteed in this type of communication.</p>
 
