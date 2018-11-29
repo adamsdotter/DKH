@@ -50,7 +50,7 @@
     </li>
     <li>
       <figure class="staff-img">
-          <img src="<?php echo $images; ?>staff/no-img.png" alt="Ida Asplund" />
+          <img src="<?php echo $images; ?>staff/ida.png" alt="Ida Asplund" />
       </figure>
       <figcaption class="staff-name">
           <strong>Ida Asplund</strong> Receptionist
