@@ -12,7 +12,10 @@
                     </ul>
                 </div>
             </footer>
-        </div>
+            <div class="cookies">
+                <p>Vi använder oss av kakor på den här webbplatsen. <a href="https://pts.se/sv/privat/internet/integritet/kakor-cookies/" target="_blank">Läs mer här</a></p>
+                <button>Jag förstår</button>
+            </div>
         <script type="text/javascript" src="<?php echo $scripts; ?>min/dkh.js"></script>
     </body>
 </html>
