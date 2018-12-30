@@ -14,7 +14,7 @@
             </footer>
             <div class="cookies">
                 <p>We're using cookies on this website. <a href="https://cookiesandyou.com/" target="_blank">Read more here</a></p>
-                <button>I understand</button>
+                <button id="cookie-concent">I understand</button>
             </div>
         </div>
         <script type="text/javascript" src="<?php echo $scripts; ?>min/dkh.js"></script>
