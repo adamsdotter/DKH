@@ -10,11 +10,43 @@
 
   DKH = {
     init: function() {
-      var menuBtn = $.getElementById('toggle-nav');
-      var menuList = $.getElementById('site-menu');
+        var menuBtn = $.getElementById('toggle-nav');
+        var menuList = $.getElementById('site-menu');
+        var cookieBtn = $.getElementById('cookie-concent');
 
-      this.menu.init(menuBtn, menuList);
-      this.stickyNav.init();
+        this.menu.init(menuBtn, menuList);
+        this.stickyNav.init();
+        this.cookies.init(cookieBtn);
+    },
+
+    cookies: {
+      init: function(button) {
+          var self = this;
+          this.box = $.querySelector('.cookies');
+
+          this.toggle();
+
+          button.addEventListener('click', function() {
+            self.accept();
+          });
+      },
+
+      toggle: function() {
+          var dkhCookie = document.cookie.indexOf('DKH_COOKIE_CONSENT=true');
+
+          if (dkhCookie !== -1) {
+              this.hide();
+          }
+      },
+
+      accept: function() {
+          document.cookie = 'DKH_COOKIE_CONSENT=true';
+          this.hide();
+      },
+
+      hide: function() {
+          this.box.style.display = 'none';
+      }
     },
 
     // Mobile nav
