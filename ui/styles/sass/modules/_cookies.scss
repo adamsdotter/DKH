@@ -1,0 +1,29 @@
+.cookies {
+    background-color: white;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    border: 5px solid $color-main;
+    width: 300px;
+    padding: 20px;
+    box-shadow: -7px -2px 30px 0px rgba(88, 87, 87, 0.4);
+    font-size: 80%;
+
+    p {
+        margin-bottom: 15px;
+    }
+
+    a {
+        color: inherit;
+        text-decoration: underline;
+    }
+
+    button {
+        background-color: $color-main;
+        color: white;
+        border-radius: 20px;
+        padding: 7px 12px;
+        border: 0;
+        float: right;
+    }
+}
