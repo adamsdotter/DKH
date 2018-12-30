@@ -35,17 +35,13 @@
           var dkhCookie = document.cookie.indexOf('DKH_COOKIE_CONSENT=true');
 
           if (dkhCookie !== -1) {
-              this.hide();
+              this.box.style.display = 'none';
           }
       },
 
       accept: function() {
           document.cookie = 'DKH_COOKIE_CONSENT=true';
-          this.hide();
-      },
-
-      hide: function() {
-          this.box.style.display = 'none';
+          this.box.style.opacity = 0;
       }
     },
 
